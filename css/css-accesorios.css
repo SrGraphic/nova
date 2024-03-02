@@ -1,0 +1,136 @@
+/*CSS - Nova © 2024*/
+/*ICONS - Flaticon*/
+
+/*Bloque-principal*/
+.main-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+/*Bloque-imagenes*/
+.img-main {
+    background-color: #f4f4f4;
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 0 30px 50px 0 #88888844;
+    text-align: center;
+    width: 90px;
+}
+
+/*Custom-Submenú*/
+.main-content-txt {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 13px;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+}
+
+/*Custom-Submenú-hover*/
+.img-main:hover {
+    background-color: #ebebeb;
+    box-shadow: 0 30px 50px 0 #3464e944;
+    transition: all 0.5s;
+}
+
+.space-2 {
+    margin-left: 120px;
+}
+
+.main-content a {
+    text-decoration: none;
+}
+
+/*Contenido*/
+.titulo-1 {
+    margin-top: 150px;
+    margin-bottom: 30px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    text-shadow: 0 0 20px #378bd0;
+}
+
+.titulo-2 {
+    margin-top: 150px;
+    margin-bottom: 30px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 23px;
+    text-shadow: 0 0 20px #378bd0;
+}
+
+.txt {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    font-weight: bolder;
+    margin-bottom: 80px;
+}
+
+/*---Content-estructura---*/
+.display {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.imagen {
+    width: 170px;
+    margin-top: 40px;
+}
+
+/*Content-card*/
+.div-card-a {
+    width: 330px;
+    height: 400px;
+    margin-top: 60px; /*Altura*/
+    margin-bottom: 200px;
+    padding: 20px 30px;
+    border-radius: 20px;
+    box-shadow: 0 20px 50px 0 #a3a3a349;
+}
+
+/*Boton-card*/
+.button-a {
+    width: 100%;
+    padding: 6px;
+    border-radius: 20px;
+    margin-top: 10px;
+    background-color: #181717;
+    color: #ffffff;
+    font-size: 13px;
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.button-a:hover {
+    background-color: #494545;
+}
+
+/*Custom-txt*/
+.txt-title {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    text-shadow: 0 0 20px #378bd0;
+    color: rgb(0, 0, 0);
+}
+
+.txt-precio {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    text-shadow: 0 0 20px #378bd0;
+    color: rgb(0, 0, 0);
+}
+
+.space-custom {
+    margin-left: 130px;
+}

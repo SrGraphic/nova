@@ -1,0 +1,124 @@
+/*Titulo-1*/
+.titulo-1 {
+    margin-top: 150px;
+    margin-bottom: 30px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    text-shadow: 0 0 20px #378bd0;
+}
+
+/*Titulo-2*/
+.titulo-2 {
+    margin-top: 40px;
+    margin-bottom: 30px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 23px;
+    text-shadow: 0 0 20px #378bd0;
+}
+
+.txt {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    font-weight: bolder;
+    margin-bottom: 40px;
+}
+
+/*Titulo-card*/
+.txt-title {
+    margin-top: 30px;
+    margin-bottom: 25px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    text-shadow: 0 0 20px #378bd0;
+    color: white;
+}
+
+/*Txt-card*/
+.t-txt {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+    margin-top: 10px;
+}
+
+/*Precio-card*/
+.txt-price {
+    margin-top: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    text-shadow: 0 0 20px #378bd0;
+    color: white;
+}
+
+/*Subtitulo-card*/
+.m-txt-subtitle {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+/*Content-estructura*/
+.display {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.imagen {
+    width: 150px;
+    margin-top: 40px;
+}
+
+/*Content-card*/
+.div-card-t {
+    width: 330px;
+    height: 610px;
+    margin-top: 60px; /*Altura*/
+    padding: 20px 30px;
+    border-radius: 20px;
+    box-shadow: 0 20px 50px 0 #3d18e462;
+    background-color: #1f1f1f;
+    color: #d6d6d6;
+}
+
+/*Boton-card*/
+.button-card {
+    width: 100%;
+    padding: 6px;
+    border-radius: 20px;
+    margin-top: 10px;
+    background-color: #ffffff;
+    color: #000000;
+    font-size: 13px;
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.button-card:hover {
+    background-color: #000000;
+    color: white;
+    box-shadow: 0 0 30px #378bd0;
+    transition: all 1s;
+}
+
+.space-2 {
+    margin-left: 100px;
+}
+
+/*Colores-type-input*/
+.input-m {
+    background-color: #1f1f1f;
+    width: 15px;
+    height: 18px;
+    border: 0;
+}
+
+/*HR-custom*/
+hr {
+    margin-bottom: 20px;
+    border: 1px solid;
+    box-shadow: 0 0 30px #378bd0;
+}
