@@ -15,7 +15,5 @@ botones personalizados.
 
 ### COPYRIGHT
 
-▪ Si se desea extraer el ZIP contacte con el creador: sergiorsaweb18@gmail.com.
-
 ###### 02/03/2024 By SrGraphic 
 
