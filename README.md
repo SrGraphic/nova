@@ -1,4 +1,4 @@
-## Nova 1.0v.
+## Nova v1.0
 
 ### DESCRIPCIÓN
 
