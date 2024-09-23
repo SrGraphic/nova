@@ -7,7 +7,7 @@ botones personalizados.
 
 ### RECURSOS 
 
-- Fuentes: *Montserrat* -> https://fonts.google.com/
+- Fuentes: *Montserrat* (https://fonts.google.com)
 
 - Iconos: -> https://www.flaticon.es/ | https://fontawesome.com/
 
