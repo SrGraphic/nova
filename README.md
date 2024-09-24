@@ -12,13 +12,13 @@
 - Para los iconos se usan de estas fuentes [Flaticon](https://www.flaticon.es/) y [FontAwesome](https://fontawesome.com/).
 
 - Paleta de colores:
-`#bebebe`;
-`#f1f1f1`;
-`#202428`;
-`#d9d9d9`;
-`#378bd0`;
-`#ffffff`;
-`#000000`;
+  `#bebebe`;
+  `#f1f1f1`;
+  `#202428`;
+  `#d9d9d9`;
+  `#378bd0`;
+  `#ffffff`;
+  `#000000`;
 
 ### COPYRIGHT
 
