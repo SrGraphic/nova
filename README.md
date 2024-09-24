@@ -6,8 +6,7 @@
 
 ### RECURSOS 
 
-- Las fuentes usadas para esta maqueta son de [Google Fonts](https://fonts.google.com).
-  - (*Montserrat*)
+- Las fuentes usadas para esta maqueta son de [Google Fonts](https://fonts.google.com). (*Montserrat*)
 
 - Para los iconos se usan de estas fuentes [Flaticon](https://www.flaticon.es/) y [FontAwesome](https://fontawesome.com/).
 
