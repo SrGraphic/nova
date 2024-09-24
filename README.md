@@ -13,7 +13,7 @@
   - https://www.flaticon.es/
   - https://fontawesome.com/
 
-- Paleta de colores: #bebebe; #f1f1f1; #202428; #d9d9d9; #378bd0; #ffffff; #000000;
+- Paleta de colores: `#bebebe`; `#f1f1f1`; `#202428`; `#d9d9d9`; `#378bd0`; `#ffffff`; `#000000`;
 
 ### COPYRIGHT
 
