@@ -7,9 +7,12 @@ botones personalizados.
 
 ### RECURSOS 
 
-- Fuentes: *Montserrat* (https://fonts.google.com)
+- Fuentes: (*Montserrat*)
+  - https://fonts.google.com
 
-- Iconos: -> https://www.flaticon.es/ | https://fontawesome.com/
+- Iconos: ->
+  - https://www.flaticon.es/
+  - https://fontawesome.com/
 
 - Paleta de colores: #bebebe; #f1f1f1; #202428; #d9d9d9; #378bd0; #ffffff; #000000;
 
