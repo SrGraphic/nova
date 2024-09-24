@@ -10,7 +10,7 @@ botones personalizados.
 - Fuentes: (*Montserrat*)
   - https://fonts.google.com
 
-- Iconos: ->
+- Iconos:
   - https://www.flaticon.es/
   - https://fontawesome.com/
 
