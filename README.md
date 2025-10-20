@@ -1,14 +1,8 @@
-# Web Nova 📱💻
+# Web Nova
 
 ## 📖 Descripción
 
 **Nova** es una página web de venta de tecnología inteligente, dispositivos, accesorios y extras. Tiene una interfaz diseñada usando colores claros y oscuros para ofrecer una mejora visual a la hora de comprar. No usa JS, lo cual evita cualquier funcionalidad. Las mayoria de las imagenes vienen de la web de [Apple Oficial](https://www.apple.com/). Proyecto creado para el grado.  
-
-### Funcionalidades principales:
-- 🔍 Navegación por categorías de productos.
-- 🛒 Iconos con funcionalidad.
-- 📱 Diseño único para escritorio.
-- 🎴 Uso de cards para productos.
 
 ---
 
